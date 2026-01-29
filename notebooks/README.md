@@ -1,6 +1,6 @@
 # Notebooks – AI Engineer Associate Certificate Course
 
-This folder contains Jupyter notebooks created while following the **AI Engineer Associate Certificate Course** (Udemy – School of AI / AI Academy).
+This folder contains Jupyter notebooks created while following the **AI Engineer Associate Certificate Course** (School of AI / AI Academy).
 
 Notebooks are organized by course day, section, or project. Each subfolder includes:
 - The main `.ipynb` file(s)

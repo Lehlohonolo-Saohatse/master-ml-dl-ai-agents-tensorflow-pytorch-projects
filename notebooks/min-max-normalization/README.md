@@ -42,14 +42,5 @@ Side-by-side results for no scaling vs scaled versions.
 ![k-NN Accuracy Before & After Scaling](images/scaling-accuracy-comparison.png)
 
 
-## Next Steps / Potential Improvements
-- Visualize decision boundaries of k-NN before/after scaling  
-- Experiment with different `k` values (loop from 1 to 15)  
-- Use k-fold cross-validation instead of a single split  
-- Test on a dataset with highly varying feature scales (e.g., add synthetic extreme outliers or use another UCI dataset)  
-- Compare scaling impact on other distance-based models (e.g., SVM, KMeans)
-
 **Course Relevance**: Essential preprocessing technique — directly builds on Day 1 data understanding and prepares for feature engineering (Days 3–5), model evaluation, and advanced algorithms.
 
-**Author**: LEHLOHONOLO SAOHATSE
-**Date**: 29 January 2026

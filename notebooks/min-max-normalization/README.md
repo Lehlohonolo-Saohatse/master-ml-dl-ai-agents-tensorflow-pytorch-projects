@@ -51,5 +51,5 @@ Side-by-side results for no scaling vs scaled versions.
 
 **Course Relevance**: Essential preprocessing technique — directly builds on Day 1 data understanding and prepares for feature engineering (Days 3–5), model evaluation, and advanced algorithms.
 
-**Author**: LEHLOHONOLO Saohatse
+**Author**: LEHLOHONOLO SAOHATSE
 **Date**: 29 January 2026

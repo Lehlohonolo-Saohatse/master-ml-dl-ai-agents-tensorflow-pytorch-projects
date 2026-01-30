@@ -1,3 +1,4 @@
+
 # Notebooks – AI Engineer Associate Certificate Course
 
 This folder contains Jupyter notebooks created while following the **AI Engineer Associate Certificate Course** (School of AI / AI Academy).
@@ -11,10 +12,26 @@ We update this index as new work is added.
 
 ## Progress & Completed Work
 
-| # | Section / Project                          | Status    | Key Topics Covered                                                                 | Link to Folder / Notebook                                                                 | Date Added   | Notes / Highlights                              |
-|---|--------------------------------------------|-----------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------|-------------------------------------------------|
-| 1 | Titanic – Initial EDA (Day 1 Exploration) | Completed | Data loading from GitHub, `.info()`, `.head()`, categorical vs numerical features, value counts, `.describe()` | [titanic-eda-initial-exploration](./titanic-eda-initial-exploration/README.md)           | Jan 2026    | First project – foundational data understanding |
+| # | Section / Project                              | Status    | Key Topics Covered                                                                 | Link to Folder / Notebook                                                                 | Date Added    | Notes / Highlights                                      |
+|---|------------------------------------------------|-----------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------|
+| 1 | Titanic – Initial EDA (Day 1 Exploration)     | Completed | Data loading from GitHub, `.info()`, `.head()`, categorical vs numerical features, value counts, `.describe()` | [titanic-eda-initial-exploration](./titanic-eda-initial-exploration/README.md)           | Jan 2026     | First project – foundational data understanding         |
+| 2 | Scaling & Normalization (Iris k-NN)    | Completed | MinMaxScaler, StandardScaler, effect on distance-based model (k-NN), accuracy comparison, feature distribution visuals | [min-max-normalization](./min-max-normalization/README.md)                 | Jan 2026     | Shows scaling impact (or lack thereof) on Iris + boxplots |
 
-**Last updated:** January 29, 2026
+**Last updated:** January 30, 2026
 
 ## Current Structure
+
+```
+notebooks/
+├── titanic-eda-initial-exploration/           # Project 1: Titanic EDA
+│   ├── titanic_eda_day1.ipynb
+│   ├── README.md
+│   └── images/
+├── min-max-normalization/              # Project 2: Scaling on Iris
+│   ├── min-max-scaling-and-std.ipynb
+│   ├── min-max-scaling-and-std.py             (optional script version)
+│   ├── README.md
+│   └── images/
+└── README.md                                  ← You are here (central index)
+```
+Happy learning & building! 🚀  

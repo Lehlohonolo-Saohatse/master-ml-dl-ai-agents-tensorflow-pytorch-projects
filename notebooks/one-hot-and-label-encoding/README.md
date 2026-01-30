@@ -28,7 +28,7 @@
 - Evaluate with accuracy score
 
 ## Files
-- `categorical-encoding-titanic.py`     → Your original script (or renamed)  
+- `one-hot-and-label-encoding.py`     → Your original script 
 
 ## Key Observations
 - **One-Hot Encoding** is ideal for nominal categories (`Sex`, `Embarked`) → creates binary columns (`Sex_male`, `Embarked_Q`, `Embarked_S`)  

@@ -1,4 +1,3 @@
-
 # Notebooks – AI Engineer Associate Certificate Course
 
 This folder contains Jupyter notebooks created while following the **AI Engineer Associate Certificate Course** (School of AI / AI Academy).
@@ -15,23 +14,29 @@ We update this index as new work is added.
 | # | Section / Project                              | Status    | Key Topics Covered                                                                 | Link to Folder / Notebook                                                                 | Date Added    | Notes / Highlights                                      |
 |---|------------------------------------------------|-----------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------|
 | 1 | Titanic – Initial EDA (Day 1 Exploration)     | Completed | Data loading from GitHub, `.info()`, `.head()`, categorical vs numerical features, value counts, `.describe()` | [titanic-eda-initial-exploration](./titanic-eda-initial-exploration/README.md)           | Jan 2026     | First project – foundational data understanding         |
-| 2 | Scaling & Normalization (Iris k-NN)    | Completed | MinMaxScaler, StandardScaler, effect on distance-based model (k-NN), accuracy comparison, feature distribution visuals | [min-max-normalization](./min-max-normalization/README.md)                 | Jan 2026     | Shows scaling impact (or lack thereof) on Iris + boxplots |
+| 2 | Scaling & Normalization (Iris k-NN)           | Completed | MinMaxScaler, StandardScaler, effect on distance-based model (k-NN), accuracy comparison, feature distribution visuals | [min-max-normalization](./min-max-normalization/README.md)                               | Jan 2026     | Shows scaling impact (or lack thereof) on Iris + boxplots |
+| 3 | Categorical Encoding (Titanic LogReg)  | Completed | One-Hot Encoding, Label Encoding, Frequency Encoding, logistic regression baseline, impact of encoding on model performance | [day-03-encoding-categoricals](./one-hot-and-label-encoding/README.md)                 | Jan 2026     | Applies multiple encoding techniques to Titanic categoricals + evaluates with LogReg |
 
-**Last updated:** January 30, 2026
+**Last updated:** January 31, 2026
 
 ## Current Structure
-
 ```
 notebooks/
 ├── titanic-eda-initial-exploration/           # Project 1: Titanic EDA
-│   ├── titanic_eda_day1.ipynb
+│   ├── titanic_eda_day1.py
 │   ├── README.md
 │   └── images/
-├── min-max-normalization/              # Project 2: Scaling on Iris
-│   ├── min-max-scaling-and-std.ipynb
-│   ├── min-max-scaling-and-std.py             (optional script version)
+├── min-max-normalization/                     # Project 2: Scaling on Iris
+│   
+│   ├── min-max-scaling-and-std.py             # optional script version
+│   ├── README.md
+│   └── images/
+├── one-hot-and-label-encoding/              # Project 3: Categorical Encoding on Titanic
+│  
+│   ├── one-hot-and-label-encoding.py        # or your script name
 │   ├── README.md
 │   └── images/
 └── README.md                                  ← You are here (central index)
 ```
-Happy learning & building! 🚀  
+
+We Keep going. 🚀

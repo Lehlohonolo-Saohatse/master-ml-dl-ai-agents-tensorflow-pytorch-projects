@@ -29,7 +29,6 @@
 
 ## Files
 - `categorical-encoding-titanic.py`     → Your original script (or renamed)  
-- `categorical-encoding-titanic.ipynb`  → Recommended Jupyter version (add plots/markdown next)
 
 ## Key Observations
 - **One-Hot Encoding** is ideal for nominal categories (`Sex`, `Embarked`) → creates binary columns (`Sex_male`, `Embarked_Q`, `Embarked_S`)  

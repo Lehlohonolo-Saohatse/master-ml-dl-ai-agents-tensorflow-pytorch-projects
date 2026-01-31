@@ -105,15 +105,6 @@ Expect Jupyter notebooks, clean scripts, visualizations, end-to-end mini-project
 
 ---
 
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are very welcome!
-
-- Found a bug? → Open an issue
-- Want to add a better implementation / visualization? → Fork & PR
-- General feedback? → Discussions or DM on X/LinkedIn
-
----
 
 ## 📄 License
 
